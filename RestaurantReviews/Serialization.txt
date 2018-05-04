@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Restaurants xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>5</ID>
+  <Name>Taco Bell</Name>
+  <Address>16162 Loki Lane</Address>
+  <city>Tampa</city>
+  <state>Fl</state>
+  <zipcode>33604</zipcode>
+  <AverageRating>4</AverageRating>
+</Restaurants>
